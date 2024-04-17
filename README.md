@@ -7,7 +7,7 @@
 
 For my research and latest updates, check out my [Homepage](https://yuhsihu.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=U6yM89YAAAAJ).
 
-Reach me for collaborations or just general questions [here](mailto:yuxi.hu@icg.tugraz.at).
+Reach me for collaborations or just general questions [here](mailto:yuxi.hu@tugraz.at).
 
 ![YuhsiHu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuhsiHu)
 
